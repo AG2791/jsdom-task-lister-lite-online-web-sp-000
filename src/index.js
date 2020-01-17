@@ -1,3 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  let 
+  let taskForm = document.getElementById('create-task-form');
+  let newTaskDescription = document.getElementById(new-task-description')
+  
 });
